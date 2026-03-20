@@ -1,6 +1,6 @@
 #  GDG on Campus ITER — Git & GitHub Workshop
 
-> **Welcome to the hands-on attendance activity!**  
+> **Welcome to the resource and hands-on attendance activity Repository!**  
 > This repo is part of the **Git & GitHub Workshop** by GDG on Campus ITER.  
 > Your task: mark your attendance by adding your name to this repo using the Git workflow you just learned.
 
@@ -42,8 +42,8 @@ gdg-iter-git-workshop/
 # 1. Fork this repo on GitHub (click the Fork button top-right)
 
 # 2. Clone your fork
-git clone https://github.com/<your-username>/gdg-iter-git-workshop.git
-cd gdg-iter-git-workshop
+git clone https://github.com/<your-username>/GDG-iter-git-workshop.git
+cd GDG-iter-git-workshop
 
 # 3. Create a branch with your name
 git checkout -b attendance/<your-name>
