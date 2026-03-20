@@ -1,4 +1,4 @@
-# 📝 Workshop Attendees
+#  Workshop Attendees
 
 > **Hey! Add your details below to mark your attendance.**  
 > Follow the steps in [`CONTRIBUTING.md`](./CONTRIBUTING.md) if you're unsure how.  
@@ -6,7 +6,7 @@
 
 ---
 
-## 📅 Workshop Details
+##  Workshop Details
 
 | | |
 |---|---|
@@ -17,7 +17,7 @@
 
 ---
 
-## 🧑‍💻 Attendees
+##  Attendees
 
 | # | Full Name | Registration Number | GitHub Username | Branch |
 |---|-----------|---------------------|-----------------|--------|
