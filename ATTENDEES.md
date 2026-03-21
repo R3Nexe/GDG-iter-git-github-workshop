@@ -21,4 +21,5 @@
 
 | # | Full Name | Registration Number | GitHub Username | Branch |
 |---|-----------|---------------------|-----------------|--------|
-| 1 | Omm Prakash Rout (Example) | 24E111B09 | [Jack-O-Trades](https://github.com/Jack-O-trades) | CSE |
+| 1 | Nishant Kumar (Example) | 24E111B42 | [@R3Nexe](https://github.com/R3Nexe) | CSE |
+| 2 | Omm Prakash Rout (Example) | 24E118B09 | [Jack-O-Trades](https://github.com/Jack-O-trades) | CSE |
